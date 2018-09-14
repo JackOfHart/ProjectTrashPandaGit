@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 2821ed7908425cf4492753b1ab1ca097
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Apartment_building
+    100002: Bodega
+    100004: //RootNode
+    100006: bodega_awning
+    100008: bodega_awning1
+    100010: bodega_awning_edge
+    100012: bodega_windows
+    100014: bodega_windows_2
+    100016: building
+    100018: building1
+    100020: Door1
+    100022: Door2
+    100024: Door3
+    100026: knob
+    100028: knob 1
+    100030: knob1
+    100032: knob1 1
+    100034: knob2
+    100036: knob2 1
+    100038: knob2 2
+    100040: knob3
+    100042: knob3 1
+    100044: knob3 2
+    100046: knob4
+    100048: knob4 1
+    100050: knob4 2
+    100052: knob5
+    100054: knob5 1
+    100056: knob5 2
+    100058: pCube45
+    100060: pCube46
+    100062: pCube47
+    100064: pCube48
+    100066: pCube58
+    100068: pCube63
+    100070: pCube64
+    100072: pCube65
+    100074: pCube66
+    100076: pCube67
+    100078: pCylinder1
+    100080: polySurface1
+    100082: polySurface2
+    100084: polySurface3
+    100086: polySurface4
+    100088: polySurface5
+    100090: polySurface6
+    100092: transform1
+    100094: transform10
+    100096: transform11
+    100098: transform12
+    100100: transform13
+    100102: transform14
+    100104: transform15
+    100106: transform16
+    100108: transform17
+    100110: transform18
+    100112: transform19
+    100114: transform2
+    100116: transform3
+    100118: transform4
+    100120: transform5
+    100122: transform7
+    100124: trim
+    100126: trim1
+    100128: windows_8
+    400000: Apartment_building
+    400002: Bodega
+    400004: //RootNode
+    400006: bodega_awning
+    400008: bodega_awning1
+    400010: bodega_awning_edge
+    400012: bodega_windows
+    400014: bodega_windows_2
+    400016: building
+    400018: building1
+    400020: Door1
+    400022: Door2
+    400024: Door3
+    400026: knob
+    400028: knob 1
+    400030: knob1
+    400032: knob1 1
+    400034: knob2
+    400036: knob2 1
+    400038: knob2 2
+    400040: knob3
+    400042: knob3 1
+    400044: knob3 2
+    400046: knob4
+    400048: knob4 1
+    400050: knob4 2
+    400052: knob5
+    400054: knob5 1
+    400056: knob5 2
+    400058: pCube45
+    400060: pCube46
+    400062: pCube47
+    400064: pCube48
+    400066: pCube58
+    400068: pCube63
+    400070: pCube64
+    400072: pCube65
+    400074: pCube66
+    400076: pCube67
+    400078: pCylinder1
+    400080: polySurface1
+    400082: polySurface2
+    400084: polySurface3
+    400086: polySurface4
+    400088: polySurface5
+    400090: polySurface6
+    400092: transform1
+    400094: transform10
+    400096: transform11
+    400098: transform12
+    400100: transform13
+    400102: transform14
+    400104: transform15
+    400106: transform16
+    400108: transform17
+    400110: transform18
+    400112: transform19
+    400114: transform2
+    400116: transform3
+    400118: transform4
+    400120: transform5
+    400122: transform7
+    400124: trim
+    400126: trim1
+    400128: windows_8
+    2100000: blinn1
+    2100002: lambert4
+    2100004: lambert8
+    2100006: lambert6
+    2100008: blue_awning
+    2100010: lambert7
+    2100012: lambert9
+    2100014: lambert10
+    2100016: lambert1
+    2100018: lambert11
+    2100020: lambert12
+    2300000: bodega_windows
+    2300002: bodega_windows_2
+    2300004: building1
+    2300006: Door1
+    2300008: Door2
+    2300010: Door3
+    2300012: knob
+    2300014: knob 1
+    2300016: knob1
+    2300018: knob1 1
+    2300020: knob2
+    2300022: knob2 1
+    2300024: knob2 2
+    2300026: knob3
+    2300028: knob3 1
+    2300030: knob3 2
+    2300032: knob4
+    2300034: knob4 1
+    2300036: knob4 2
+    2300038: knob5
+    2300040: knob5 1
+    2300042: knob5 2
+    2300044: polySurface1
+    2300046: polySurface2
+    2300048: polySurface3
+    2300050: polySurface4
+    2300052: polySurface5
+    2300054: polySurface6
+    2300056: trim
+    2300058: trim1
+    3300000: bodega_windows
+    3300002: bodega_windows_2
+    3300004: building1
+    3300006: Door1
+    3300008: Door2
+    3300010: Door3
+    3300012: knob
+    3300014: knob 1
+    3300016: knob1
+    3300018: knob1 1
+    3300020: knob2
+    3300022: knob2 1
+    3300024: knob2 2
+    3300026: knob3
+    3300028: knob3 1
+    3300030: knob3 2
+    3300032: knob4
+    3300034: knob4 1
+    3300036: knob4 2
+    3300038: knob5
+    3300040: knob5 1
+    3300042: knob5 2
+    3300044: polySurface1
+    3300046: polySurface2
+    3300048: polySurface3
+    3300050: polySurface4
+    3300052: polySurface5
+    3300054: polySurface6
+    3300056: trim
+    3300058: trim1
+    4300000: Door1
+    4300002: knob
+    4300004: knob1
+    4300006: knob2
+    4300008: knob3
+    4300010: knob4
+    4300012: knob5
+    4300014: Door2
+    4300016: knob
+    4300018: knob1
+    4300020: knob2
+    4300022: knob3
+    4300024: knob4
+    4300026: knob5
+    4300028: polySurface4
+    4300030: polySurface3
+    4300032: polySurface1
+    4300034: polySurface2
+    4300036: polySurface5
+    4300038: polySurface6
+    4300040: Door3
+    4300042: knob2
+    4300044: knob3
+    4300046: knob4
+    4300048: knob5
+    4300050: bodega_windows
+    4300052: bodega_windows_2
+    4300054: trim
+    4300056: trim1
+    4300058: building1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
